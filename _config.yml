@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://john-shaw.github.io
-author: John
+author: John Shaw
 pygments: true
 paginate: 24
