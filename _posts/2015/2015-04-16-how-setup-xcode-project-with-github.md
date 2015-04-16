@@ -17,7 +17,7 @@ tags:
 
 Xcode并不能直接连接Github账号，所以我们必须在Github上新建一个repo。
 
-![创建Github上的repo](http://john-shaw.github.io/media/pic/2015/04/xcode-github-1.png)
+![创建Github上的repo](http://john-shaw.github.io/media/pic/2015/04/xcode-github-1.png =618x446)
 
 值得注意的是在add .gitignore选项中选择Objective-C，这样会使用Github的OC项目忽略模版，对于像我这样的新手而言，省了很多配置的功夫。
 2. 在Xcode中新建一个工程
