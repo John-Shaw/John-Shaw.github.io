@@ -1,6 +1,26 @@
-markdown: rdiscount
-permalink: /:year/:month/:title/
-url: http://john-shaw.github.io
-author: John Shaw
-pygments: true
-paginate: 24
+title:            NSBlog
+description:      blogWithAuther:@"邵建勇"
+url:              http://john-shaw.github.io
+signoff:          John Shaw
+disqus_shortname: Shao_JianYong
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: UA-55487527-2
+
+links:
+  - name:         About
+    url:          /about
+  - name:         Blog
+    url:          http://john-shaw.github.io
+    external:     true
+  - name:         Email
+    url:          mailto:bard2093@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/john-shaw
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
