@@ -13,7 +13,7 @@ links:
     url:          /about
   - name:         Blog
     url:          /
-    external:     true
+    external:     false
   - name:         Email
     url:          mailto:bard2093@gmail.com
     external:     true
