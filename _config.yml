@@ -2,7 +2,7 @@ title:            NSBlog
 description:      blogWithAuther:@"邵公奭"
 url:              http://john-shaw.github.io
 signoff:          邵公奭
-disqus_shortname: Shao_JianYong
+disqus_shortname: john-shaw
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: 
   config: false
