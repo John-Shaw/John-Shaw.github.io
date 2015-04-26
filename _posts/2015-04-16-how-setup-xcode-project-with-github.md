@@ -7,6 +7,7 @@ categories:
 tags:
 - Xcode
 - Github
+disqus: y
 
 ---
 现代IDE普遍集成了版本控制工具(Git,SVN,etc)，比如脑浆喷射([jetBrain](http://jetbrains.com/))公司的招牌产品IntelliJ IDEA，可以轻松连接Github账号，对项目进行版本管理。Xcode虽然也支持Git，但却并不如IDEA那么傻瓜一键。我在网上搜索很多教程都是通过git命令来操作，但实际上完成这个目标并不需要敲任何shell命令。下面我们来介绍如何在Xcode中使用Github。

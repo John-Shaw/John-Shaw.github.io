@@ -6,6 +6,7 @@ categories:
 tags:
 - Objective-C
 - 胡言
+disqus: y
 
 ---
 ##楔子
