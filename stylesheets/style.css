@@ -311,7 +311,8 @@ section.post, section > p {
     margin-bottom: 5px; }
 
 .highlight {
-  margin: 0;
+  margin-left: 60px;
+  margin-right: 60px;
   padding: 0; }
 
 pre {
